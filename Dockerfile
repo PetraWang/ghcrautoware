@@ -1,2 +1,2 @@
-FROM autowarefoundation/autoware-universe:latest-cuda
+FROM ghcr.io/autowarefoundation/autoware-universe:latest-cuda
 
